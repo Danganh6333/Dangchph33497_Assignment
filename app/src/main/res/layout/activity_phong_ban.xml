@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Content.PhongBanActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tbPhongBan"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/blue"/>
+    <ListView
+        android:id="@+id/lvPhongBan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/blue"
+        android:dividerHeight="2dp"/>
+</LinearLayout>

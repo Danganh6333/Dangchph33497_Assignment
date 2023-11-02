@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_margin="25dp"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/edHoTen"
+        android:inputType="none"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:hint="Nhập họ tên"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:importantForAutofill="no" />
+    <EditText
+        android:id="@+id/edPhongBan"
+        android:inputType="none"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:hint="Nhập phòng ban"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:importantForAutofill="no" />
+    <LinearLayout
+        android:layout_width="290dp"
+        android:layout_height="56dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="20dp">
+        <Button
+            android:backgroundTint="#C63C3C"
+            android:id="@+id/btnSaveNV"
+            android:layout_width="wrap_content"
+            android:layout_height="49dp"
+            android:text="Lưu"
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/btnCancelNV"
+            android:layout_width="wrap_content"
+            android:layout_height="49dp"
+            android:text="Thoát"
+            android:textColor="@color/white"
+            android:textSize="11sp"
+            android:backgroundTint="#F3CF0091"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+</LinearLayout>

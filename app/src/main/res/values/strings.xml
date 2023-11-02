@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dangchph33497_Assignment</string>
+    <string name="chao_mung_ban_da_tro_lai">Chào mừng bạn đã trở lại,</string>
+    <string name="vui_long_dang_nhap_de_tiep_tuc">Vui lòng đăng nhập để tiếp tục</string>
+    <string name="nhap_username">Nhập username</string>
+    <string name="nhap_password">Nhập password</string>
+    <string name="nhap_lai_password">Nhập lại password</string>
+    <string name="ghi_nho_tai_khoan">Ghi nhớ tài khoản</string>
+    <string name="dang_nhap">ĐĂNG NHẬP</string>
+    <string name="chao_mung_ban">Chào mừng bạn,</string>
+    <string name="dang_ky">ĐĂNG KÝ</string>
+    <string name="dang_ky_tai_khoan">Đăng ký tài khoản</string>
+    <string name="tro_ve">TRỞ VỀ</string>
+    <string name="quan_ly_nhan_su">QUẢN LÝ NHÂN SỰ</string>
+    <string name="fpoly_software_company">FPOLY SOFTWARE COMPANY</string>
+    <string name="phong_ban">Phòng ban</string>
+    <string name="nhan_vien">Nhân viên</string>
+    <string name="thoat">Thoát</string>
+    <string name="nhan_su">Nhân sự</string>
+    <string name="dao_tao">Đào tạo</string>
+    <string name="faculty_of_information_technology">FACULTY OF INFORMATION TECHNOLOGY</string>
+    <string name="caodang.fpt.edu.vn">caodang.fpt.edu.vn</string>
+    <string name="conect"><b>CONNECT</b></string>
+    <string name="the"><i>the</i></string>
+    <string name="future"><b>FUTURE</b></string>
+    <string name="ho_ten_nguyen_van_b">Họ tên: Nguyễn Văn B</string>
+    <string name="ma_nv_NV001">Mã NV:NV001</string>
+    <string name="phong_ban_hanh_chinh">Phòng ban:Hành chính</string>
+    <string name="them_phong_nhan_vien_moi">Thêm phòng nhân viên mới</string>
+    <string name="tim_kiem">Tìm Kiếm</string>
+</resources>
